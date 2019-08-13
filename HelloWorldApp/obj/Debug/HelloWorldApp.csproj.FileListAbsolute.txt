@@ -1,0 +1,7 @@
+C:\Users\Krishna.Kashyap\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojAssemblyReference.cache
+C:\Users\Krishna.Kashyap\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\Krishna.Kashyap\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\Users\Krishna.Kashyap\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\Users\Krishna.Kashyap\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\Users\Krishna.Kashyap\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\Users\Krishna.Kashyap\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
